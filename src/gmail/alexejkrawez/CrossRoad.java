@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
 /**
  * @name Java.SE.06
  * @package gmail.alexejkrawez;
- * @file Main.java
+ * @file CrossRoad.java
  * @author Alexej Krawez
  * @email AlexejKrawez@gmail.com
  * @created 17.01.2019
